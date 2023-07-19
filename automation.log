@@ -1,0 +1,101 @@
+07/19/2023 06:45:09 PM - DEBUG - Login_page : 
+-----
+Test: testcases/test_smoke.py::TestSearchAndVerifyFilter::test_smoke (call)
+Start time: 2023-07-19 18:45:09.484520
+Start name method: authorization
+
+
+07/19/2023 06:45:09 PM - DEBUG - Login_page : Input user_namestandard_user
+07/19/2023 06:45:09 PM - DEBUG - Login_page : Input passwordsecret_sauce
+07/19/2023 06:45:09 PM - DEBUG - Login_page : clicked login button
+07/19/2023 06:45:09 PM - DEBUG - Login_page : End time: 2023-07-19 18:45:09.675516
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+07/19/2023 06:45:09 PM - DEBUG - Login_page : 
+-----
+Test: testcases/test_smoke.py::TestSearchAndVerifyFilter::test_smoke (call)
+Start time: 2023-07-19 18:45:09.676518
+Start name method: select_product_1
+
+
+07/19/2023 06:45:09 PM - DEBUG - Login_page : Global price:$29.99
+07/19/2023 06:45:09 PM - DEBUG - Login_page : Global product1 name:$29.99
+07/19/2023 06:45:09 PM - DEBUG - Login_page : Clicked add to cart button
+07/19/2023 06:45:09 PM - DEBUG - Login_page : Clicked cart icon
+07/19/2023 06:45:09 PM - DEBUG - Login_page : End time: 2023-07-19 18:45:09.862521
+End name method: select_product_1
+URL: https://www.saucedemo.com/cart.html
+
+-----
+
+07/19/2023 06:45:09 PM - DEBUG - Login_page : 
+-----
+Test: testcases/test_smoke.py::TestSearchAndVerifyFilter::test_smoke (call)
+Start time: 2023-07-19 18:45:09.862521
+Start name method: cart_test_product_1
+
+
+07/19/2023 06:45:09 PM - DEBUG - Login_page : cart page name: Sauce Labs Backpack
+07/19/2023 06:45:09 PM - DEBUG - Login_page : cart page price: $29.99
+07/19/2023 06:45:09 PM - DEBUG - Login_page : cart page name: Sauce Labs Backpack
+07/19/2023 06:45:09 PM - DEBUG - Login_page : cart page price: $29.99
+07/19/2023 06:45:09 PM - DEBUG - Login_page : Item added to cart
+07/19/2023 06:45:09 PM - DEBUG - Login_page : End time: 2023-07-19 18:45:09.990524
+End name method: cart_test_product_1
+URL: https://www.saucedemo.com/checkout-step-one.html
+
+-----
+
+07/19/2023 06:45:09 PM - DEBUG - Login_page : 
+-----
+Test: testcases/test_smoke.py::TestSearchAndVerifyFilter::test_smoke (call)
+Start time: 2023-07-19 18:45:09.990524
+Start name method: client_page_test
+
+
+07/19/2023 06:45:10 PM - DEBUG - Login_page : Input first name: Frank
+07/19/2023 06:45:10 PM - DEBUG - Login_page : Input first name: Elgyn
+07/19/2023 06:45:10 PM - DEBUG - Login_page : Input postal code: 14546256
+07/19/2023 06:45:10 PM - DEBUG - Login_page : Clicked continue button
+07/19/2023 06:45:10 PM - DEBUG - Login_page : End time: 2023-07-19 18:45:10.205520
+End name method: client_page_test
+URL: https://www.saucedemo.com/checkout-step-two.html
+
+-----
+
+07/19/2023 06:45:10 PM - DEBUG - Login_page : 
+-----
+Test: testcases/test_smoke.py::TestSearchAndVerifyFilter::test_smoke (call)
+Start time: 2023-07-19 18:45:10.205520
+Start name method: cart_step_2_test_product_1
+
+
+07/19/2023 06:45:10 PM - DEBUG - Login_page : Cart step two product 1 name: Sauce Labs Backpack
+07/19/2023 06:45:10 PM - DEBUG - Login_page : Cart step two product 1 price: $29.99
+07/19/2023 06:45:10 PM - DEBUG - Login_page : Subtotal: $29.99
+07/19/2023 06:45:10 PM - DEBUG - Login_page : Cart step two product 1 name: Sauce Labs Backpack
+07/19/2023 06:45:10 PM - DEBUG - Login_page : Cart step two product 1 price: $29.99
+07/19/2023 06:45:10 PM - DEBUG - Login_page : Subtotal: $29.99
+07/19/2023 06:45:10 PM - DEBUG - Login_page : End time: 2023-07-19 18:45:10.386520
+End name method: cart_step_2_test_product_1
+URL: https://www.saucedemo.com/checkout-complete.html
+
+-----
+
+07/19/2023 06:45:10 PM - DEBUG - Login_page : 
+-----
+Test: testcases/test_smoke.py::TestSearchAndVerifyFilter::test_smoke (call)
+Start time: 2023-07-19 18:45:10.386520
+Start name method: finish
+
+
+07/19/2023 06:45:10 PM - DEBUG - Login_page : Clicked finish button
+07/19/2023 06:45:10 PM - DEBUG - Login_page : End time: 2023-07-19 18:45:10.643520
+End name method: finish
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
